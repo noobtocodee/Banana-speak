@@ -1,0 +1,88 @@
+.header{
+    background-color: gold;
+    padding: 1.5rem;
+    text-align: center;
+    margin-top: 0;
+    display: block;
+}
+
+.foot{
+        background-color: gold;
+        padding: 1rem ;
+        bottom: 0rem;
+        text-align: center;
+        display: block;
+        position: absolute;
+        text-align: center;
+        
+        }
+/* 
+.container{
+    padding-left: 1rem;
+    padding-right: 1rem;
+} */
+.container {
+    
+    margin: 1rem auto;
+    margin-top: 3.5rem;
+}
+.text-input{
+            width: 90%;
+            /* min-height: 75px; */
+                    margin: 0;
+                    border: 1px solid black;
+            height: 12vh;
+            padding: 1rem;
+}
+.output{
+    border: 1px solid black;
+    height: 8vh;
+    width: 90%;
+    padding: 1rem;
+}
+
+.sect{
+    padding: 0.5rem;
+    text-align: center;
+}
+
+.primary-link{
+    font:  large black;    
+    border-radius: 0.5rem;
+    border: 1px solid darkgoldenrod; 
+    width: 130px;
+    margin: 0;
+    padding: 0.5rem;
+    display: inline-block;
+    
+}
+
+.navigation{
+    background-color: gold;
+    padding: 1rem;
+    text-align: center;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+.footer-container{
+    background-color: gold;
+    padding: 1.5rem;
+    text-align: center;
+    display: block;
+    font-size: 15px;
+    bottom: 0.75rem;
+    position: fixed;
+    width: 100%;
+    
+}
+
+.div{
+    text-align: center;
+    font: larger bolder;
+    padding: 0.5rem;
+}
+
+.body{
+    display: block;
+}
